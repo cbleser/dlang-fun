@@ -1,9 +1,1 @@
-{
-	"authors": [
-		"carsten"
-	],
-	"copyright": "Copyright © 2024, carsten",
-	"description": "A minimal D application.",
-	"license": "proprietary",
-	"name": "dlang_fun"
-}
+{"libs" : ["raylib"], "lflags-posix" : ["-L."], "lflags-osx" : ["-rpath", "@executable_path/"], "lflags-linux" : ["-rpath=$$ORIGIN"], "description" : "A minimal D application.", "name" : "dlang_fun", "dependencies" : {"raylib-d" : "~>5.0.1"}, "authors" : ["carsten"], "copyright" : "Copyright © 2024, carsten", "license" : "proprietary"}
