@@ -6,6 +6,10 @@ It based on [Dlang](https://dlang.org/).
 
 [Raylib examples](https://github.com/schveiguy/raylib-d_examples)
 
+First install the raylib-d 
+```sh
+dub run raylib-d:install
+```
 This write.
 ```sh
 dub run
