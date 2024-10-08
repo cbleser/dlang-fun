@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"carsten"
+	],
+	"copyright": "Copyright © 2024, carsten",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "dlang_fun"
+}
