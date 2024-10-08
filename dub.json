@@ -20,6 +20,6 @@
 	"libs": [
 		"raylib"
 	],
-	"license": "proprietary",
+	"license": "MIT",
 	"name": "dlang_fun"
 }
